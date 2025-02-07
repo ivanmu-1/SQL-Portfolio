@@ -7,4 +7,4 @@ By preparing the data in a structured format, I aimed to make it easier to analy
 
 [Data Cleaning Script](https://github.com/ivanmu-1/SQL-Portfolio/blob/main/Data%20Cleaning%20Layoffs/layoffs_data_cleaningproject.sql)
 
-__SQL Skills Used:__ Common Table Expressions (CTEs), Date Functions, Data Insertion,Data Type Conversion, Removing Duplicates, Table Creation, String Manipulation, Window Functions, Aggregations Joins, Window Functions, and Group By.
+__SQL Skills Used:__ Common Table Expressions (CTEs), Date Functions, Data Insertion, Data Type Conversion, Removing Duplicates, Table Creation, String Manipulation, Window Functions, Aggregations Joins, Window Functions, and Group By.
