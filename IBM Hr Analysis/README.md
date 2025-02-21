@@ -6,6 +6,8 @@ This project focuses on analyzing the [HR Analytics Employee Attrition & Perform
 
 To facilitate efficient analysis and align with best practices in relational database design, the dataset was broken down into three separate tables alinging with best practices in relational database deisgn, ensuring logical organization and efficient analysis. By grouping related attributes—for example, separating demographics, job information, and performance metrics—the data structure becomes more focused, reducing redundancy and improving clarity. This approach enhances flexibility for crafting SQL queries, as JOIN operations can easily link relevant tables to explore complex relationships, such as how job satisfaction correlates with attrition. Additionally, this modular design allows for easier updates and scalability, ensuring the database can accommodate future data without disrupting its integrity or structure. **The goal is to derive insight and uncover meaningful patterns within the dataset**
 
+### Objective:
+
 The Objective being to: 
 
 - **Explore Data Relationships**: Analyze correlation between employee demographics , job satisfaction, and attrition rates.
