@@ -1,3 +1,6 @@
+
+![Image](https://github.com/user-attachments/assets/e634f786-ca8a-4274-8d33-426dbcbc63b6)
+
 # SQL Portfolio
 
 Welcome to my SQL portfolio! This repository showcases my SQL projects, highlighting my expertise in data analysis, database management, and query optimization.
@@ -18,7 +21,7 @@ This dataset tracks tech layoffs from the beginning of the COVID-19 pandemic to 
 
 [View the Project](https://github.com/ivanmu-1/SQL-Portfolio/tree/main/Data%20Cleaning%20Layoffs)  
 
---
+
 
 ## Skills & Tools Used  
 
