@@ -2,7 +2,7 @@
 
 Welcome to my SQL portfolio! This repository showcases my SQL projects, highlighting my expertise in data analysis, database management, and query optimization.
 
-## 📂 Projects
+## Projects
 
 ### **IBM HR Analysis**
 **Description:**  
@@ -18,7 +18,7 @@ This dataset tracks tech layoffs from the beginning of the COVID-19 pandemic to 
 
 [View the Project](https://github.com/ivanmu-1/SQL-Portfolio/tree/main/Data%20Cleaning%20Layoffs)  
 
----
+--
 
 ## Skills & Tools Used  
 
