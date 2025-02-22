@@ -1,8 +1,7 @@
-
+# SQL Portfolio
 ![Image](https://github.com/user-attachments/assets/e634f786-ca8a-4274-8d33-426dbcbc63b6)
 
-# SQL Portfolio
-
+## Introduction
 Welcome to my SQL portfolio! This repository showcases my SQL projects, highlighting my expertise in data analysis, database management, and query optimization.
 
 ## Projects
