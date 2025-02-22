@@ -4,31 +4,23 @@ Welcome to my SQL portfolio! This repository showcases my SQL projects, highligh
 
 ## 📂 Projects
 
-### **Project Name**
+### **IBM HR Analysis**
 **Description:**  
-[Brief project description]  
+This project analyzes the **IBM HR Analytics Attrition Dataset**, which contains **employee demographics, job roles, performance metrics, and attrition status**. The goal is to uncover meaningful patterns that influence **employee turnover** within organizations. 
 
-[View the Project]  
+[View the Project](https://github.com/ivanmu-1/SQL-Portfolio/tree/main/IBM%20Hr%20Analysis) 
+
+
+
+### **Tech Layoffs Data Cleaning & Standardization**
+**Description:**  
+This dataset tracks tech layoffs from the beginning of the COVID-19 pandemic to mid-2024. My main goal for this project was to **standardize and clean the dataset** to ensure consistency, improve data quality, and make it ready for further analysis. 
+
+[View the Project](https://github.com/ivanmu-1/SQL-Portfolio/tree/main/Data%20Cleaning%20Layoffs)  
 
 ---
 
-### **Project Name**
-**Description:**  
-[Brief project description]  
-
-🔗 [View the Project]  
-
----
-
-### **Project Name**
-**Description:**  
-[Brief project description]  
-
-[View the Project]  
-
----
-
-## 🛠 Skills & Tools Used  
+## Skills & Tools Used  
 
 - **SQL** – Querying, Data Manipulation, and Analysis  
 - **Database Design** – Normalization, Indexing, and Schema Optimization  
