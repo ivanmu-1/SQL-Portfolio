@@ -1,4 +1,4 @@
-# Project Overview:
+## Project Overview:
 
 This Kaggle [Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) tracks tech layoffs from when COVID-19 was declared a pandemic on March 11, 2020, to July 20, 2024
 
