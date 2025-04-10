@@ -1,6 +1,8 @@
 ## Project Overview:
 
-This Kaggle [Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) tracks tech layoffs from when COVID-19 was declared a pandemic on March 11, 2020, to July 20, 2024
+This Kaggle [Dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) tracks tech layoffs from when COVID-19 was declared a pandemic on March 11, 2020, to July 20, 2024. It provides insight into how the economic slowdown brought on by the pandemic affected employment trends across major tech companies. 
+
+### Objective: 
 
 My main goal of this project was to standardize and clean the dataset in order to ensure consistency, improve data quality, and make it ready for further analysis. This involved handling missing values, removing duplicates, standardizing date formats, and ensuring proper categorization of variables. By preparing the data in a structured format, I aimed to make it easier to analyze trends and derive insights regarding the impact of the economic slowdown that Covid-19 had on tech layoffs.
 
