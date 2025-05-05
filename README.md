@@ -33,9 +33,6 @@ This dataset tracks tech layoffs from the beginning of the COVID-19 pandemic to 
 - **ETL (Extract, Transform, Load)** – Data Ingestion and Pipeline Development
 - **Exploratory Data Analysis (EDA)** – Identifying Trends, Patterns, and Outliers 
 
----
-
-📩 **Contact:** [ivan.mac711@gmail.com]  
 
 
 
